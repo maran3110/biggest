@@ -12,6 +12,6 @@ public class JavaExample{
        System.out.println(num2+"is the largest Number");
   
     else
-       System.out.println(num3+"is the largest Number");
+       System.out.println(num3+"is the Number");
     }
 }
